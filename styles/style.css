@@ -1,9 +1,17 @@
+*{
+    margin: 0px;
+}
 h3{
     font-family: 'Times New Roman', Times, serif;
     text-decoration: overline;
 }
 div{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 5px;
     background-color: tomato;
     padding: 20px;
-    box-shadow: 10px 10px 5px blueviolet;
+    box-shadow: 10px 10px 5px rgba(137, 43, 226, 0.356);
+    border-radius: 5px;
 }
